@@ -5,7 +5,8 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="footer__top__logo">
-                        <a href="#"><img src="<?php echo esc_url(get_template_directory_uri());?>/img/logo.png" alt=""></a>
+                        <a href="#"><img src="<?php //echo esc_url(get_template_directory_uri());?>/img/logo.png" alt=""></a>
+                        <a href="<?php echo esc_url(home_url('/')); ?>"><h3 class="text-white">Genz</h3></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
@@ -24,7 +25,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="footer__option__item">
                         <h5>About us</h5>
-                        <p>Formed in 2006 by Matt Hobbs and Cael Jones, Videoprah is an award-winning, full-service production company specializing.</p>
+                        <p>Formed in 2020 by Crispin Manda and Jael Maina, Videoprah is an award-winning, full-service production company specializing in commercial, broadcast, tourism & action sport video production services has been featured.</p>
                         <a href="#" class="read__more">Read more <span class="arrow_right"></span></a>
                     </div>
                 </div>

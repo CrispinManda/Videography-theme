@@ -36,7 +36,8 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="header__logo">
-                        <a href="<?php echo esc_url(home_url('/')); ?>"><img src="<?php echo esc_url(get_template_directory_uri());?>/img/logo.png" alt=""></a>
+                        <a href="<?php //echo esc_url(home_url('/')); ?>"><img src="<?php //echo esc_url(get_template_directory_uri());?>/img/logo.png" alt=""></a>
+                        <a href="<?php echo esc_url(home_url('/')); ?>"><h3 class="text-white">Genz</h3></a>
                     </div>
                 </div>
                 <div class="col-lg-10">

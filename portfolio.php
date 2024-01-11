@@ -48,126 +48,134 @@
             <div class="row portfolio__gallery">
                 <div class="col-lg-4 col-md-6 col-sm-6 mix branding">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-1.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
-                                    class="fa fa-play"></i></a>
+                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/milly.jpg">
+                            <a href="https://www.youtube.com/watch?v=8DtX6x9slqo" class="play-btn video-popup"><i
+                            class="fa fa-play"></i></a>
                         </div>
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
+                            <h4>The Life Hack Podcast</h4>
                             <ul>
-                                <li>eCommerce</li>
-                                <li>Magento</li>
+                             <li>By Milly</li>
+                              <li>YouTuber</li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mix digital-marketing">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-2.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/water.jpg">
+                            <a href="https://www.youtube.com/watch?v=K_cLVa5fWzk" class="play-btn video-popup"><i
                                     class="fa fa-play"></i></a>
                         </div>
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
-                            <span>Photography</span>
+                            <h4>corporate video</h4>
+                            <span>For <a href="https://www.opblue.org/">Op-blue</a> </span>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mix web">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-3.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/buzz.jpg">
+                            <a href="https://www.youtube.com/watch?v=4GI7lArDnuQ" class="play-btn video-popup"><i
                                     class="fa fa-play"></i></a>
                         </div>
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
+                            <h4>Professionals Buzz Podcast</h4>
                             <ul>
-                                <li>eCommerce</li>
-                                <li>Magento</li>
+                                <li>Kenya Institute of IT</li>
+                                <li>Prof. Job Magondu</li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mix photography">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-4.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/funday.jpg">
+                            <a href="https://www.youtube.com/watch?v=CLt7Bx0gBCg" class="play-btn video-popup"><i
                                     class="fa fa-play"></i></a>
                         </div>
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
+                            <h4>The Dedan Kimathi Team Building</h4>
                             <ul>
-                                <li>eCommerce</li>
-                                <li>Magento</li>
+                                <li>DeKut Students</li>
+                                <li>Kimathi Conservancies</li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mix ecommerce">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-5.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/jofu.jpg">
+                            <a href="https://www.youtube.com/watch?v=u9eVowyoOZA" class="play-btn video-popup"><i
                                     class="fa fa-play"></i></a>
                         </div>
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
-                            <span>Photography</span>
+                            <h4>Professionals Buzz Podcast</h4>
+                            <ul>
+                                <li>Kenya Institute of IT</li>
+                                <li>Prof. Job Magondu</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mix branding">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-6.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/wedo.jpg">
+                            <a href="https://www.youtube.com/watch?v=Y7cALvi3rWA" class="play-btn video-popup"><i
                                     class="fa fa-play"></i></a>
                         </div>
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
+                            <h4>Steve's Wedding </h4>
                             <ul>
-                                <li>eCommerce</li>
-                                <li>Magento</li>
+                                <li>Maria Weds Steve</li>
+                                <li>Nyeri Kiganjo</li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mix web">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-7.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/jojo.jpg">
+                            <a href="https://www.youtube.com/watch?v=-vNW9IKvuqA" class="play-btn video-popup"><i
                                     class="fa fa-play"></i></a>
                         </div>
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
+                            <h4>Nyeri Elevation Chapel</h4>
                             <ul>
-                                <li>eCommerce</li>
-                                <li>Magento</li>
+                                <li>Live Broadcasts</li>
+                                <li>Church Videos</li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mix photography">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-8.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
-                                    class="fa fa-play"></i></a>
-                        </div>
+
+                    <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/rising.jpg">
+                        <a href="https://photos.app.goo.gl/VGYqpmcm6VZGRHn5A" target="_blank">
+                            <i class="fa fa-play"></i>
+                        </a>
+                    </div>
+
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
+                            <h4>The Jitu Limited</h4>
+                            <span>The Rising Stars Graduation</span>
                             <span>Photography</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mix ecommerce">
                     <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/portfolio-9.jpg">
-                            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                        <div class="portfolio__item__video set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/portfolio/genious.jpg">
+                            <a href="https://photos.app.goo.gl/QsRRcfcFGhkYWY1XA"  target="_blank"><i
                                     class="fa fa-play"></i></a>
                         </div>
                         <div class="portfolio__item__text">
-                            <h4>VIP Auto Tires & Service</h4>
+                            <h4>The NEC Youth Confrence</h4>
                             <ul>
-                                <li>eCommerce</li>
-                                <li>Magento</li>
+                                <li>Ibis Hotel</li>
+                                <li>Nyeri</li>
+                                <li>Photography</li>
                             </ul>
                         </div>
                     </div>

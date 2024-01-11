@@ -121,52 +121,54 @@
     <section class="work">
         <div class="work__gallery">
             <div class="grid-sizer"></div>
-            <div class="work__item wide__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/work-1.jpg">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+            <div class="work__item wide__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/milly.jpg">
+                <a href="https://www.youtube.com/watch?v=8DtX6x9slqo" class="play-btn video-popup"><i
                         class="fa fa-play"></i></a>
                 <div class="work__item__hover">
-                    <h4>VIP Auto Tires & Service</h4>
+                    <h4>The Life Hack Podcast</h4>
                     <ul>
-                        <li>eCommerce</li>
-                        <li>Magento</li>
+                       <li>By Milly</li>
+                        <li>Iracha</li>
                     </ul>
                 </div>
             </div>
-            <div class="work__item small__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/work-2.jpg">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+            <div class="work__item small__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/water.jpg">
+                <a href="https://www.youtube.com/watch?v=K_cLVa5fWzk" class="play-btn video-popup"><i
+                        class="fa fa-play"></i></a>
+            </div>Reels
+            <div class="work__item small__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/wed.jpg">
+                <a href="https://www.youtube.com/watch?v=Y7cALvi3rWA" class="play-btn video-popup"><i
                         class="fa fa-play"></i></a>
             </div>
-            <div class="work__item small__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/work-3.jpg">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
-                        class="fa fa-play"></i></a>
-            </div>
-            <div class="work__item large__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/work-4.jpg">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+            <div class="work__item large__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/keru.jpg">
+                <a href="https://www.youtube.com/watch?v=UmwRshGpXqs&t=38s" class="play-btn video-popup"><i
                         class="fa fa-play"></i></a>
                 <div class="work__item__hover">
-                    <h4>VIP Auto Tires & Service</h4>
+                    <h4>@sue_kimani</h4>
                     <ul>
-                        <li>eCommerce</li>
-                        <li>Magento</li>
+                       <li>Instagram</li>
+                        <li>Reels</li>
                     </ul>
                 </div>
             </div>
-            <div class="work__item small__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/work-5.jpg">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+
+            <div class="work__item small__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/jofu.jpg">
+                <a href="https://www.youtube.com/watch?v=u9eVowyoOZA" class="play-btn video-popup"><i
                         class="fa fa-play"></i></a>
             </div>
-            <div class="work__item small__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/work-6.jpg">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+            <div class="work__item small__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/jojo.jpg">
+                <a href="https://www.youtube.com/watch?v=-vNW9IKvuqA" class="play-btn video-popup"><i
                         class="fa fa-play"></i></a>
             </div>
-            <div class="work__item wide__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/work-7.jpg">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+
+            <div class="work__item wide__item set-bg" data-setbg="<?php echo esc_url(get_template_directory_uri());?>/img/work/funday.jpg">
+                <a href="https://www.youtube.com/watch?v=CLt7Bx0gBCg" class="play-btn video-popup"><i
                         class="fa fa-play"></i></a>
                 <div class="work__item__hover">
-                    <h4>VIP Auto Tires & Service</h4>
+                    <h4>Dedan Kimathi Students Team Building</h4>
                     <ul>
-                        <li>eCommerce</li>
-                        <li>Magento</li>
+                        <li>at Kimathi</li>
+                        <li>Conservancies</li>
                     </ul>
                 </div>
             </div>
@@ -292,7 +294,8 @@
                 </div>
                 <div class="col-lg-12 p-0">
                     <div class="team__btn">
-                        <a href="#" class="primary-btn">View Our Gallery</a>
+                        <a href="https://photos.app.goo.gl/VGYqpmcm6VZGRHn5A" class="primary-btn" target="_blank">Explore More from Our Gallery</a>
+
                     </div>
                 </div>
             </div>
